@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.ic{
+    background: black;
+    
+    position: relative;
+}
+
+.card11{
+    width: 200px;
+    height: 300px;
+    background: white;
+}
+.card11:hover{
+    box-shadow: 3px 3px 10px gray;
+}
+
+.mm i{
+    font-size: 45px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.mm p{
+    font-size: 20px;
+}
+.footer1 a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: all 0.5s ease;
+}
+
+.footer1 a:hover {
+    margin: 10px;
+    color: rgb(7, 252, 252);
+}
+
+.footer1 h3 {
+    color: rgb(7, 252, 252);
+}
